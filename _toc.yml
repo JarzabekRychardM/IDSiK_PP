@@ -10,6 +10,9 @@ chapters:
   - file: Mod2
   - file: Mod3
   - file: Mod4
+  - file: Mod5
+  - file: Mod6
+  - file: Mod7
   
   
 #   format: jb-book
